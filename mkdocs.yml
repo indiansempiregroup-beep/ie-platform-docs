@@ -13,6 +13,7 @@ nav:
   - API: 04-api/README.md
   - Design: 05-design/README.md
   - Products: 06-products/README.md
+    - AppointIE: 06-products/AppointIE/README.md
   - Development: 07-development/README.md
   - Security: 08-security/README.md
   - DevOps: 09-devops/README.md

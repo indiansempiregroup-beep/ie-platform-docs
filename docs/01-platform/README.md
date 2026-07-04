@@ -15,6 +15,27 @@ related_documents:
 
 ## Purpose
 
+This folder provides the documentation entry point for the Platform Overview area within the IE Platform documentation repository.
+
+## Contents
+
+- Core reference documents
+- Supporting architecture and product materials
+- Navigation links to related sections
+
+## Related Documents
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+## Navigation
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+
+## Purpose
+
 This section describes the IE Platform as a multi-tenant, extensible SaaS foundation for product delivery and operations.
 
 ## Contents

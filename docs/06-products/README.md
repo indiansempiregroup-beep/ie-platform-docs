@@ -15,6 +15,27 @@ related_documents:
 
 ## Purpose
 
+This folder provides the documentation entry point for the Products and Portfolios area within the IE Platform documentation repository.
+
+## Contents
+
+- Core reference documents
+- Supporting architecture and product materials
+- Navigation links to related sections
+
+## Related Documents
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+## Navigation
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+
+## Purpose
+
 This section supports product management for the IE Platform, including core products, future offerings, and portfolio planning.
 
 ## Contents

@@ -15,6 +15,27 @@ related_documents:
 
 ## Purpose
 
+This folder provides the documentation entry point for the Diagrams area within the IE Platform documentation repository.
+
+## Contents
+
+- Core reference documents
+- Supporting architecture and product materials
+- Navigation links to related sections
+
+## Related Documents
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../../docs/index.md)
+
+## Navigation
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../../docs/index.md)
+
+
+## Purpose
+
 This folder stores architecture diagrams, flow charts, and system relationship visuals.
 
 ## Contents

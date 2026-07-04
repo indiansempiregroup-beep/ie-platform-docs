@@ -15,6 +15,27 @@ related_documents:
 
 ## Purpose
 
+This folder provides the documentation entry point for the Icons area within the IE Platform documentation repository.
+
+## Contents
+
+- Core reference documents
+- Supporting architecture and product materials
+- Navigation links to related sections
+
+## Related Documents
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../../docs/index.md)
+
+## Navigation
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../../docs/index.md)
+
+
+## Purpose
+
 This folder stores approved icon assets for documentation and UI references.
 
 ## Contents

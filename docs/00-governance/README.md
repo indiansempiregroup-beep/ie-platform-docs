@@ -16,6 +16,27 @@ related_documents:
 
 ## Purpose
 
+This folder provides the documentation entry point for the Governance area within the IE Platform documentation repository.
+
+## Contents
+
+- Core reference documents
+- Supporting architecture and product materials
+- Navigation links to related sections
+
+## Related Documents
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+## Navigation
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+
+## Purpose
+
 This section defines how the IE Platform documentation repository is maintained, reviewed, and governed over time.
 
 ## Contents

@@ -16,6 +16,27 @@ related_documents:
 
 ## Purpose
 
+This folder provides the documentation entry point for the Security area within the IE Platform documentation repository.
+
+## Contents
+
+- Core reference documents
+- Supporting architecture and product materials
+- Navigation links to related sections
+
+## Related Documents
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+## Navigation
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+
+## Purpose
+
 This section establishes security principles, controls, and review expectations for systems built and operated on the IE Platform.
 
 ## Contents

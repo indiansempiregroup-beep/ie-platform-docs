@@ -16,6 +16,27 @@ related_documents:
 
 ## Purpose
 
+This folder provides the documentation entry point for the AI and Intelligent Systems area within the IE Platform documentation repository.
+
+## Contents
+
+- Core reference documents
+- Supporting architecture and product materials
+- Navigation links to related sections
+
+## Related Documents
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+## Navigation
+
+- [Repository Home](../../README.md)
+- [Documentation Home](../index.md)
+
+
+## Purpose
+
 This section guides the design, deployment, and governance of AI capabilities within the IE Platform.
 
 ## Contents

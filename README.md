@@ -14,6 +14,27 @@ related_documents:
 
 # IE Platform Documentation
 
+## Purpose
+
+This folder provides the documentation entry point for the IE Platform Documentation area within the IE Platform documentation repository.
+
+## Contents
+
+- Core reference documents
+- Supporting architecture and product materials
+- Navigation links to related sections
+
+## Related Documents
+
+- [Repository Home](README.md)
+- [Documentation Home](docs/index.md)
+
+## Navigation
+
+- [Repository Home](README.md)
+- [Documentation Home](docs/index.md)
+
+
 This repository is the single source of truth for the IE Platform. It is designed to support product, engineering, architecture, data, design, security, operations, and AI work for the next decade.
 
 ## Repository Goals
