@@ -27,6 +27,7 @@ This folder provides the documentation entry point for the API Design area withi
 
 - [Repository Home](../../README.md)
 - [Documentation Home](../index.md)
+- [API Architecture Blueprint](IE-0007-API-Architecture-Blueprint.md)
 
 ## Navigation
 

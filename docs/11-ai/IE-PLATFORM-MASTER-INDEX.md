@@ -19,6 +19,7 @@ related_documents:
 
 | Version | Date | Author | Summary |
 | --- | --- | --- | --- |
+| 1.1.0 | 2026-07-04 | Documentation Guild | Added API and design system blueprint documentation entries |
 | 1.0.0 | 2026-07-04 | Documentation Guild | Initial master index for IE Platform engineering standards |
 
 ## Table of Contents
@@ -41,6 +42,7 @@ related_documents:
 
 | Document ID | Title | Status | Owner | Priority |
 | --- | --- | --- | --- | --- |
+| IE-0000A | Repository Standards | Approved | Indians Empire Technologies | High |
 | IE-0001 | IE Platform Documentation Repository | Active | Documentation Guild | High |
 | IE-0002 | Contributing to IE Platform Documentation | Active | Documentation Guild | High |
 | IE-0003 | Changelog | Active | Documentation Guild | Medium |
@@ -96,8 +98,42 @@ related_documents:
 
 | Document ID | Title | Status | Owner | Priority |
 | --- | --- | --- | --- | --- |
+| IE-0007 | API Architecture Blueprint | Active | API Platform | High |
 | IE-0014 | API Design | Active | API Platform | High |
 | API-001 | API Specification Template | Draft | API Platform | High |
+
+## Design
+
+| Document ID | Title | Status | Owner | Priority |
+| --- | --- | --- | --- | --- |
+| IE-0008 | UI/UX Architecture Blueprint | Active | Design Systems | High |
+| IE-0008A | Design System Specification | Active | Design Systems | High |
+| IE-0008B | Navigation and User Flow Specification | Active | Design Systems | High |
+| IE-0008C | Screen Inventory | Active | Design Systems | High |
+| IE-0008D | Component Catalog | Active | Design Systems | High |
+| IE-0008.01 | Product Experience Vision | Active | Design Systems | High |
+| IE-0008.02 | UX Principles | Active | Design Systems | High |
+| IE-0008.03 | Information Architecture | Active | Design Systems | High |
+| IE-0008.04 | Navigation Architecture | Active | Design Systems | High |
+| IE-0008.05 | Customer App UX | Active | Design Systems | High |
+| IE-0008.06 | Operations Dashboard UX | Active | Design Systems | High |
+| IE-0008.07 | Business Intelligence Dashboard UX | Active | Design Systems | High |
+| IE-0008.08 | Platform Admin UX | Active | Design Systems | High |
+| IE-0008.09 | Design System | Active | Design Systems | High |
+| IE-0008.10 | Component Library | Active | Design Systems | High |
+| IE-0008.11 | Screen Inventory | Active | Design Systems | High |
+| IE-0008.12 | User Flow Specification | Active | Design Systems | High |
+| IE-0009 | Design Implementation Package | Active | Design Systems | High |
+| IE-0009.01 | Design Tool Standards | Active | Design Systems | High |
+| IE-0009.02 | AI Design Prompt Library | Active | Design Systems | High |
+| IE-0009.03 | Design Token Mapping | Active | Design Systems | High |
+| IE-0009.04 | Component Mapping | Active | Design Systems | High |
+| IE-0009.05 | Prototype Specification | Active | Design Systems | High |
+| IE-0009.06 | Developer Handoff Guide | Active | Design Systems | High |
+| IE-0009.07 | Asset Organization | Active | Design Systems | High |
+| IE-0009.08 | Design QA Checklist | Active | Design Systems | High |
+| IE-0015 | Design System | Active | Design Systems | High |
+| SCR-001 | Screen Specification Template | Draft | Design Systems | High |
 
 ## DevOps
 
@@ -149,6 +185,7 @@ flowchart TB
 
 ## References
 
+- [Repository Standards](../00-governance/IE-0000A-Repository-Standards.md)
 - [AI System Prompt](AI_SYSTEM_PROMPT.md)
 - [AI Documentation Standard](AI_DOCUMENTATION_STANDARD.md)
 - [AI Coding Standard](AI_CODING_STANDARD.md)

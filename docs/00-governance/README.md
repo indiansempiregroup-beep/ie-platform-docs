@@ -28,6 +28,11 @@ This folder provides the documentation entry point for the Governance area withi
 
 - [Repository Home](../../README.md)
 - [Documentation Home](../index.md)
+- [Repository Standards](IE-0000A-Repository-Standards.md)
+
+## Official Repository Standards
+
+- [Repository Standards](IE-0000A-Repository-Standards.md) — the official governance document for repository structure, document numbering, metadata, review flow, security expectations, and AI usage rules.
 
 ## Navigation
 
