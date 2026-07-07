@@ -120,12 +120,15 @@ Multi\-tenancy\.
 Tables
 
 - tenants
+- organizations
 - tenant\_settings
 - subscriptions
 - subscription\_plans
 - branding
 
-Every business belongs to exactly one tenant\.
+**Implementation note (2026-07-07):** Each tenant has a 1:1 `organizations` record. Platform-level `subscriptions` attach to the tenant. Per-business product licensing uses `business_product_subscriptions` (see Business Domain).
+
+Every business belongs to exactly one tenant via `organization`.
 
 ## <a id="_kuyne0aipl8c"></a>__Business Domain__
 
@@ -136,11 +139,17 @@ Business information\.
 Tables
 
 - businesses
+- business\_profiles
+- business\_settings
+- business\_media
+- business\_product\_subscriptions
 - business\_hours
 - holidays
 - branches \(future\)
 - tax\_settings
 - currencies
+
+**business\_product\_subscriptions** links a business to licensed products (`appointie`, `invoiceie`, `crmie`) with plan, billing interval, and trial/period dates. References `subscription_plans`.
 
 ## <a id="_py28cbh7fbv3"></a>__Customer Domain__
 

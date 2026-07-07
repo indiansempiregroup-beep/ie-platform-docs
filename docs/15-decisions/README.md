@@ -40,10 +40,16 @@ This section maintains architecture and product decision records for the IE Plat
 
 ## Contents
 
-- Architecture decision records
-- Product decision records
-- Trade-offs and rationale
-- Consequences and follow-ups
+- [ADR-001: Platform Core Bounded Context](ADR-001-Platform-Core-Bounded-Context.md)
+- [ADR-002: Workspace Abstraction Over Tenant](ADR-002-Workspace-Abstraction.md)
+- [ADR-003: Customer Ownership Belongs to Business](ADR-003-Customer-Ownership.md)
+- [ADR-005: Business Resolution Middleware](ADR-005-Business-Resolution-Middleware.md)
+
+## Architecture evolution (2026-07-07)
+
+- [IE-1501 Platform Core Architecture](../02-architecture/IE-1501-Platform-Core-Architecture.md)
+- [IE-1502 Platform Migration Strategy](../02-architecture/IE-1502-Platform-Migration-Strategy.md)
+- [IE-1503 Shared Domain Ownership](../02-architecture/IE-1503-Shared-Domain-Ownership.md)
 
 ## Naming Convention
 
