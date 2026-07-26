@@ -1,0 +1,16 @@
+; -No login yet
+active
+Add staff profile
+Members with app access
+Demo Manager
+demo-manager@ieplatform.local
+Manager Remove
+Add Staff
+Pilot Owner
+pilot-owner @ieplatform.local
+Business Owner
+Add Manager Add Staff
+Invitations
+Nothing here
+No invitations yet.
+

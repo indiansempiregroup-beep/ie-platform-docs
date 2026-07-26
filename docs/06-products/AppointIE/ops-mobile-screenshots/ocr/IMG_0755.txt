@@ -1,0 +1,19 @@
+< New booking
+e@
+New booking
+Who, what, then when — three quick steps.
+G) Who & what
+Customer, service, office, and preferred staff
+Customer
+Select... Vv
+Service
+Select... Vv
+Office
+Kalyani Nagar Vv
+Staff
+Any available v
+@ Date & time
+Only open slots for the selected service are shown
+< July 2026 >
+Create booking
+

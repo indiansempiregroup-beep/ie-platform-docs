@@ -1,0 +1,21 @@
+< Staff
+Email
+demo-manager@ieplatform.local
+Phone
++91 90000 20001
+Booking availability
+Turn off if this person should never appear as a bookable stylist or
+count as a staff seat.
+Available for bookings
+Bookable people can be assigned to appointments and
+count toward your staff limit.
+App access
+Staff manage bookings and customers. Managers also get Settings,
+Team, and the staff directory.
+Staff
+Bookings, calendar, and customers only
+Manager
+Settings, Team, staff directory, and reports
+Changing role updates their OPS-Mobile access immediately.
+Save
+

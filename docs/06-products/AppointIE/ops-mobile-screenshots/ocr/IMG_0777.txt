@@ -1,0 +1,20 @@
+< Products & billing
+Plan & usage
+Plan: Appointie-Pro Trialing Monthly
+Staff 3/5 - Offices 2/5 - Total 1999/month
+Included 5 staff / 5 offices - Add-ons +0 staff (+
+Z199) - +0 offices (+7299)
+Started Jul 7, 2026
+Trial ends Aug 9, 2026
+Period start Jul 25, 2026
+Period end Aug 9, 2026
+Renews on Aug 9, 2026
+Extra staff
+O
+Extra offices
+O
+Update add-ons
+Provider razorpay
+Currency INR
+Mock mode Yes
+

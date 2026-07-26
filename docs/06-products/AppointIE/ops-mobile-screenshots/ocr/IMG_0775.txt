@@ -1,0 +1,51 @@
+< Business Profile
+
+Demo Salon
+MAIN
+
+Legal name
+
+Demo Salon
+
+Email
+
+hello@rupalisirsat.example
+
+Primary contact
+
++91 98765 43210
+
+Website
+
+Address
+
+Kalyani Nagar
+
+Location
+
+Pune, Maharashtra, India
+
+Product
+
+appointie
+
+Timezone
+
+Asia/Kolkata
+
+Currency
+
+INR
+
+Status
+
+active
+
+Billing provider
+
+razorpay
+
+Billing configured
+
+No
+

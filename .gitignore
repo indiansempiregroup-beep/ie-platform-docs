@@ -16,3 +16,6 @@ __pycache__/
 
 # Virtual environments
 .venv/
+
+# Node (screenshot capture tooling)
+node_modules/

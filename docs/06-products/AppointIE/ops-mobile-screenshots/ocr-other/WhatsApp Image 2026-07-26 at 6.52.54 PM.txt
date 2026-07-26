@@ -1,0 +1,15 @@
+< Weekly schedule
+Demo Manager
+Configure which days and hours this staff member is
+available.
+Start
+9:00 AM Vv
+End
+7:00 PM Vv
+Start
+9:00 AM Vv
+End
+7:00 PM Vv
+Wednesday  @®
+Save schedule
+

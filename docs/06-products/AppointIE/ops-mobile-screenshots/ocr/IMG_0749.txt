@@ -1,0 +1,7 @@
+< Forgot password
+Welll email you a reset link if the account exists.
+Email
+M
+Send reset link
+Back to sign in
+

@@ -1,0 +1,15 @@
+< Customer
+Aditi Menon
+Active
+Email
+aditi.menon@example.com
+Phone
++91 90000 10012
+Address
+Reviews
+took Ion
+Bridal Makeup Trial
+Ready for the wedding look.
+#DEMO-BK-O12 - 1 hr ago
+New booking
+

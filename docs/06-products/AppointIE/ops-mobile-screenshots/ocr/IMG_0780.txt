@@ -1,0 +1,24 @@
+< Team
+Invite team member
+Inviting creates login access. Accepting the invite also
+creates/links a Staff profile.
+Email
+Staff Manager
+Staff: bookings, calendar, and customers only — no
+teammate directory.
+Send invitation
+Staff directory
+Operational staff profiles used for scheduling and bookings.
+Demo Manager
+@ demo-manager@ieplatform.local - Login linked
+active
+Keiko Tanaka
+© -No login yet
+active
+Priya Sharma
+© -No login yet
+active
+Rupali Sirsat
+© -No login yet
+active
+

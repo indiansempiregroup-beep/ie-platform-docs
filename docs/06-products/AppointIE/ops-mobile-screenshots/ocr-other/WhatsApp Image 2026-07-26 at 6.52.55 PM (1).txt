@@ -1,0 +1,11 @@
+Add customer
+Contact details used across bookings and search.
+Identity
+Display name
+First name
+Last name
+Contact
+Email
+Phone
+Address
+

@@ -1,0 +1,13 @@
+KOCK
+Last name
+Contact
+Email
+Phone
+Address
+Optional — helps with location-aware booking.
+Address
+© Enter full address
+Set EXPO_PUBLIC_GOOGLE_PLACES_API_KEY in the repo-
+root .env to enable Google Places autocomplete.
+(ert id econ
+

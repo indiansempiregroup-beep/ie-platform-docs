@@ -1,0 +1,19 @@
+nN E188
+Demo Manager
+Active
+Email
+demo-manager @ieplatform.local
+Phone
++91 90000 20001
+App login
+Linked account
+Weekly schedule
+No schedule configured.
+Edit staff
+Edit schedule
+Leave, special hours & services
+Employment status gates booking. Use leave records for dated time-
+off that only blocks overlapping slots.
+Book with staff
+Deactivate staff
+

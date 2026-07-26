@@ -1,0 +1,22 @@
+< Offices
+Offices
+At least one office is required. Each office needs a full
+address and Google Map pin.
+Add office
+
+Baner Set primary
+
+Baner Road, Near Balewadi High Street, Pune,
+
+Maharashtra, India
+
+Map pin: 18.5590, 73.7868
+
+Kalyani Nagar
+
+Lane 5, Kalyani Nagar, Pune, Maharashtra, India
+
+Map pin: 18.5463, 73.9033
+
+Primary
+

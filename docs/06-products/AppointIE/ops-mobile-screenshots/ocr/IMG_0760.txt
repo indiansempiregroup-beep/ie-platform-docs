@@ -1,0 +1,37 @@
+M4 Customers
+12 in this workspace
+
+Q Search customers
+Aditi Menon
+
+© aditiimenon@example.com
+active
+Priya Chavan
+
+© priya.chavan@example.com
+active
+Vikram Rao
+
+© vikram.rao@example.com
+active
+Neha Gupta
+
+© neha.gupta@example.com
+active
+Dev lyer
+
+© dev.iyer@example.com
+active
+Sara Khan
+
+© sara.khan@example.com
+active
+Kabir Shah
+
+© kabir.shah@example.com
+active
+Isha Nair
+
+© isha.nair@example.com
+active
+

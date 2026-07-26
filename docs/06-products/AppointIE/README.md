@@ -53,6 +53,7 @@ Documentation baseline for the AppointIE product family.
 - [Functional Requirements Specification](IE-0005-Functional-Requirements-Specification-FRS.md)
 - [Customer Mobile App Functional Specification](IE-0005.01-Customer-Mobile-App-Functional-Specification.md)
 - [Business Dashboard Functional Specification](IE-0005.02-Business-Dashboard-Functional-Specification.md)
+- [OPS Mobile App User Guide](IE-0005.04-OPS-Mobile-App-User-Guide.md) ([Word](IE-0005.04-OPS-Mobile-App-User-Guide.docx))
 
 ## Related Documents
 

@@ -1,0 +1,16 @@
+< Edit business
+e e
+Edit business
+Branding, contact, location, and regional defaults.
+Branding
+Business logo
+Tap to add image
+Shown in OPS-Mobile and customer-facing branding.
+Legal / business name
+Demo Salon
+Display name
+Demo Salon
+Contact
+Business email
+hello@rupalisirsat.example
+

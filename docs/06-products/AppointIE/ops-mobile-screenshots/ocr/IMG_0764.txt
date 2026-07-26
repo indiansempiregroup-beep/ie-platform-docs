@@ -1,0 +1,18 @@
+CCS) 008
+Edit staff
+Profile, contact, and OPS-Mobile access.
+Profile
+Profile photo
+Add photo
+~. Square photo recommended. Use camera
+or gallery.
+First name
+Demo
+Last name
+Manager
+Display name
+Demo Manager
+Contact
+Email
+demo-manager@ieplatform.local
+

@@ -1,0 +1,15 @@
+< Profile
+e@
+Pilot Owner
+pilot-owner@ieplatform.local
+Demo Salon : Business Owner
+ACCOUNT
+@. Edit profile >
+( ~—‘ Change password >
+[] Sessions >
+SECURITY
+Face ID login
+Off - tap to enable with Face ID only
+SESSION
+(> Sign out >
+

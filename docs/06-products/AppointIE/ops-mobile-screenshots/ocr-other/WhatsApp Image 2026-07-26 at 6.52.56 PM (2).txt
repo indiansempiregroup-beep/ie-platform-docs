@@ -1,0 +1,21 @@
+< Appointment
+fel Hair Cut Confirmed
+#DEMO-BK-O19
+Customer
+Neha Gupta
+Staff
+Rupali Sirsat
+When
+Sun, Jul 26 at 10:00 AM
+Duration
+45 min
+Price
+=699.00
+Notes
+Reason (optional)
+Visible in audit trail
+Check in
+Complete
+Reschedule
+Cancel booking
+
