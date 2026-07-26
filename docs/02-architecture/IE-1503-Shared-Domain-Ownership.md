@@ -93,5 +93,7 @@ Applications own **transactions and workflows** only:
 | Product | Owns | References |
 |---------|------|------------|
 | AppointIE | Bookings, availability, schedules | customer, staff, service, business |
-| InvoiceIE | Invoices, payments, taxes | customer, staff, service, business |
+| ShopIE | Products, barcodes, orders, stock, invoices, quotations | customer, business, media |
 | CRMIE | Campaigns, loyalty, automation | customer, staff, business |
+
+> Note: InvoiceIE / InventoryIE are no longer separate sellable products; their scopes live as ShopIE Billing and Inventory modules.

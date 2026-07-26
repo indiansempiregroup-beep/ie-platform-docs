@@ -117,14 +117,13 @@ Every future product must use IE Foundation instead of creating duplicate implem
 The initial product roadmap is:
 
 - AppointIE
-- InvoiceIE
-- InventoryIE
+- ShopIE \(commerce, inventory, and billing modules; supersedes separate InvoiceIE / InventoryIE product SKUs\)
 - CRMIE
 - MarketIE
 - SupportIE
 - InsightIE
 
-Additional products may be introduced provided they align with the platform vision\.
+Additional products may be introduced provided they align with the platform vision\. InvoiceIE and InventoryIE capabilities live as modules inside ShopIE unless a future ADR restores them as standalone products\.
 
 # <a id="_vju6l0mi4sxl"></a>__White\-Label Philosophy__
 
